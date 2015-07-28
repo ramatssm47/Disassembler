@@ -1,0 +1,19 @@
+/***
+The Emulator program works still disassembling the hexcodes from input text file
+seperated with spaces
+***/
+
+Steps to execute the file in windows:
+-------------------------------------
+
+C:> Javac Emulator.java
+C:> java Emulator sample-input.txt
+
+Steps to execute the file in windows:
+-------------------------------------
+
+
+$ Javac Emulator.java
+$ java Emulator sample-input.txt
+
+=====Can also run from netbeans or eclipse====
